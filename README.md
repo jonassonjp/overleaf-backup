@@ -38,3 +38,9 @@ your_backup_dir/
 
 projects.json contains the metadata about the projects in Overleaf.
 Successfully backed up projects will not be downloaded again if they are not changed in Overleaf.
+
+
+
+## Source
+
+Original souce code [here](https://gist.github.com/MohamedElashri/7fe5af2603f7403c4625e373d93bdb5b)
